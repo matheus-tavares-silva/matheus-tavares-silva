@@ -1,15 +1,17 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-My name is *Matheus Tavares* and i will be your guide... 
-
-
-<a href="https://www.linkedin.com/in/matheus-tavares-110569144/">
-  <img align="left" alt="Matheus Tavares LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=s0berano.s0berano)
+<a href="https://www.linkedin.com/in/matheus-tavares-110569144/" align="left">
+  <img align="right" alt="Matheus Tavares LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/llq3kqbas3akaz2aosdx4u2kb">
-  <img align="left" alt="Matheus Tavares Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="right" alt="Matheus Tavares Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=s0berano.s0berano)
+My name is *Matheus Tavares* and i will be your guide...  
+
+
+
+
 
 ### About Me 🔭
 
@@ -19,7 +21,10 @@ My name is *Matheus Tavares* and i will be your guide...
 
 ### Working Tools :hammer_and_wrench:
 
-<p>
+<p align="center">My current knowledge stack that I use often...</p>
+
+<p align="center">  
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -30,30 +35,28 @@ My name is *Matheus Tavares* and i will be your guide...
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="FreeNAS" src="https://img.shields.io/badge/-FreeNAS-343434?style=flat-square&logo=freenas&logoColor=white" />
-  <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
   <img alt="Netapp" src="https://img.shields.io/badge/-Netapp-0067C5?style=flat-square&logo=netapp&logoColor=white" />
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img alt="HP" src="https://img.shields.io/badge/-HP-0096D6?style=flat-square&logo=hp&logoColor=white" />
+ </p>
+ 
+<p align="center">My list of tools and services I'm learning...</p>
+
+<p align="center">
   <img alt="Ubiquiti" src="https://img.shields.io/badge/-Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" />
+  <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white" />
   <img alt="Huawei" src="https://img.shields.io/badge/-Huawei-FF0000?style=flat-square&logo=huawei&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="FreeNAS" src="https://img.shields.io/badge/-FreeNAS-343434?style=flat-square&logo=freenas&logoColor=white" />
 </p>
 
 <!--
-**s0berano/s0berano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Link de buscas para icones e cores
+https://simpleicons.org/?q=debian
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Nome dos icones para adicionar a 'badges'
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
