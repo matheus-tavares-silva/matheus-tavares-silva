@@ -1,5 +1,5 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-![](https://visitor-badge.glitch.me/badge?page_id=s0berano.s0berano)
+![](https://visitor-badge.glitch.me/badge?page_id=s0no.s0no)
 <a href="https://www.linkedin.com/in/matheus-tavares-da-silva-110569144/" align="left">
   <img align="right" alt="Matheus Tavares LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -11,7 +11,7 @@ My name is *Matheus Tavares* and i will be your guide...
 
 ### About Me 🔭
 
-<img align="right" width="47.5%" src="https://metrics.lecoq.io/s0berano?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&introduction=1&languages=1&isocalendar.duration=full-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FCuiaba">
+<img align="right" width="47.5%" src="https://metrics.lecoq.io/s0no?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&introduction=1&languages=1&isocalendar.duration=full-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FCuiaba">
 
 - :desktop_computer: I have a degree in **Computer Networks** 
 - :printer:  Work as a Network Administrator in the **Civil Defense of the State of Mato Grosso**
