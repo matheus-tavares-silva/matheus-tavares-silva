@@ -17,7 +17,7 @@ My name is *Matheus Tavares* and i will be your guide...
 - 🌱  Currently working and **studying**
 - :robot: Trying to automate everything... *this is the way!*
 - :smile: I like **potatoes**
-- 🦾: "Don't forget to put your password in a notepad"
+- 🦾 "Don't forget to put your password in a notepad"
 
 <h3 align="right">Working Tools :hammer_and_wrench:</h3>
 
