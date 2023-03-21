@@ -13,13 +13,11 @@ My name is *Matheus Tavares* and i will be your guide...
 
 <img align="right" width="47.5%" src="https://metrics.lecoq.io/s0no?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&introduction=1&languages=1&isocalendar.duration=full-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FCuiaba">
 
-- :desktop_computer: I have a degree in **Computer Networks** 
-- :printer:  Work as a Network Administrator in the **Civil Defense of the State of Mato Grosso**
-- 🌱  Currently studying for **Linux Certifications**
-- :robot: I really like to automate tasks
-- :heavy_check_mark: A connoisseur and consumer of open source tools
-- :smile: "I use **Pop_OS!** by the way"
-- 🦾: "If I got here it was because I leaned on the giants' shoulder" - *Isaac Newton*
+- :desktop_computer: i have a degree in **Computer Networks**
+- 🌱  Currently working and **studying**
+- :robot: trying to automate everything... *this is the way!*
+- :smile: i like **potatoes**
+- 🦾: "don't forget to put your password in a notepad"
 
 <h3 align="right">Working Tools :hammer_and_wrench:</h3>
 
