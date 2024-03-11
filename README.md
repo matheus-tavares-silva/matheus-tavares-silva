@@ -1,7 +1,7 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=matheus-tavares-silva.matheus-tavares-silva)
 <a href="https://www.linkedin.com/in/matheus-tavares-da-silva-110569144/" align="left">
-  <img align="right" alt="Matheus Tavares LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Matheus Tavares LinkedIN" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://open.spotify.com/user/llq3kqbas3akaz2aosdx4u2kb">
   <img align="right" alt="Matheus Tavares Spotify" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/150px-Spotify_logo_without_text.svg.png" />
