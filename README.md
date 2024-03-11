@@ -11,13 +11,13 @@ My name is *Matheus Tavares* and i will be your guide...
 
 ### About Me 🔭
 
-<img align="right" width="47.5%" src="https://metrics.lecoq.io/matheus-tavares-silva?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&introduction=1&languages=1&isocalendar.duration=full-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FCuiaba">
-
 - :desktop_computer: I have a degree in **Computer Networks**
 - 🌱  Currently working and **studying**
 - :robot: Trying to automate everything... *this is the way!*
 - :smile: I like **potatoes**
 - 🦾 "Don't forget to put your password in a notepad"
+
+![Metrics](https://metrics.lecoq.io/matheus-tavares-silva?template=classic&lines=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=America%2FSao_Paulo)
 
 <h3 align="right">Working Tools :hammer_and_wrench:</h3>
 
